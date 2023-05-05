@@ -19,6 +19,6 @@ Further information on how to install the Freqtrade environment can be found on 
 https://www.freqtrade.io/en/stable/
 
 Results:
-The best backtesting results were achieved using the EMAPriceCrossoverWithThreshold on a one hour trimeframe, achieving a 17% profit. The strategy plot can be found under 
+The best backtesting results were achieved using the EMAPriceCrossoverWithThreshold on a one hour trimeframe, achieving a 17% profit. The strategy plot can be found under freqtrade-plot-BTC_USDT-1h.html
 
 For questions, reach out to: thabsburg.ieu2019@student.ie.edu
