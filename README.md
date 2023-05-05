@@ -14,6 +14,8 @@ The data files used for backtesting the strategies are also included in this res
 - 4 hours
 - 1 day
 
-The config.file includes all general configurations of the trading environment.
+The config.json file includes all general configurations made in hte Freqtrade trading environment.
+Further information on how to install the Freqtrade environment can be found on their website: 
+https://www.freqtrade.io/en/stable/
 
 For questions, reach out to: thabsburg.ieu2019@student.ie.edu
